@@ -12,6 +12,6 @@
 
 ## Using clinet
 1. client <server ip> <server port>
-1.2. put key value
-1.3. get key
-1.4. delete key
+  1.2. put key value
+  1.3. get key
+  1.4. delete key
