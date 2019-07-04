@@ -11,7 +11,10 @@
 4. cmake --build . --comfig <Release/Debug>
 
 ## Using clinet
-1. client <server ip> <server port>
+1. client server_ip port
     1. put key value
     2. get key
     3. delete key
+
+## Using server
+1. server port
